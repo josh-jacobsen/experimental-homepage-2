@@ -152,6 +152,10 @@ font-size: 300%;
 margin: 0;
 }
 
+.container {
+  max-width: 1300px;
+}
+
 
 /* End of Header Box */
 
